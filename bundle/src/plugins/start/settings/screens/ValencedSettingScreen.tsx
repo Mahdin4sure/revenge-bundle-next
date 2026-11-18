@@ -21,7 +21,7 @@ export default function ValencedSettingScreen() {
                             type: 'list',
                             sections: [
                                 {
-                                    label: 'Valenced',
+                                    label: 'Revenge',
                                     settings: [
                                         Setting.ValencedVersion,
                                         Setting.LoaderVersion,

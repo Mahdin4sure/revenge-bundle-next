@@ -1,7 +1,7 @@
 <p align="center">
     <img
         width="128px"
-        src="assets/logo.svg"
+        src="assets/logo/logo-dark.svg"
     >
     <h1 align="center">Valenced</h1>
     <p align="center"><strong>Supercharge your Discord experience.</strong> A client modification for Discord mobile.</p>
